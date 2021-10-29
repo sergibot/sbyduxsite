@@ -14,7 +14,7 @@
         margin-top: 10px;
 
         background-image: url("img/mainpic.png");
-        background-size: auto;
+        background-size: 120px 72px;
         background-position: center;
         background-repeat: no-repeat;
     }
@@ -39,7 +39,7 @@
         left: 17%;
         text-align: left;
         font-size: 22px;
-        /* font-weight: bold; */
+        font-weight: bold;
         font-family: 'Candara', cursive;
     }
 

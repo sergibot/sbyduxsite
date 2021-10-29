@@ -3,14 +3,14 @@
     body{
         /* background-image: url("img/icon.png"); */
         /* background-size: 30px 30px; */
-        /* background-repeat: repeat; */
-        background-color: coral;
+        background-repeat: repeat;
+        /* background-color: rgb(112, 107, 105); */
     }
 
     #bg-test{
-        width: 100%;
-        min-height: 45em;
-        margin: auto;
+        /* width: 100%; */
+        /* min-height: 45em; */
+        /* margin: auto; */
         /* margin-top: 10px; */
 
         background-image: url("img/icon.jpg");

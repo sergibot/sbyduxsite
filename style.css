@@ -15,7 +15,7 @@
 
         background-image: url("img/icon.jpg");
         background-size: 150px 150px;
-        background-position: 150px;
+        background-position: top 40% left 50%;
         background-repeat: no-repeat;
     }
 

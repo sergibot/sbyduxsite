@@ -8,10 +8,10 @@
     }
 
     #bg-test{
-        width: 80%;
+        width: 100%;
         min-height: 45em;
         margin: auto;
-        margin-top: 10px;
+        /* margin-top: 10px; */
 
         background-image: url("img/mainpic.png");
         background-size: 264px 158px;
@@ -28,7 +28,7 @@
         text-align: right;
         font-size: 30px;
         font-weight: bold;
-        font-family: 'Candara', cursive;
+        font-family: 'Verdana', cursive;
     }
 
     p{
@@ -40,7 +40,7 @@
         text-align: left;
         font-size: 22px;
         font-weight: bold;
-        font-family: 'Candara', cursive;
+        font-family: 'Verdana', cursive;
     }
 
 

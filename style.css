@@ -1,0 +1,68 @@
+@media (max-width: 767px) 
+{ 
+    body{
+        background-image: url("img/mainpic.png");
+        background-size: 300px 300px;
+        background-repeat: repeat;
+    }
+
+    #bg-test{
+        width: 80%;
+        min-height: 45em;
+        margin: auto;
+        margin-top: 10px;
+
+        /* background-image: url("img/laxpic2.jpg"); */
+        /* background-size: contain; */
+        /* background-position: center; */
+        /* background-repeat: no-repeat; */
+    }
+
+
+}
+
+
+@media (min-width: 768px) { 
+    body{
+        /* background-image: url("img/mainpic.png");
+        background-repeat: repeat; */
+        background-color: coral;
+    }
+
+    #bg-test{
+        width: 80%;
+        min-height: 65em;
+        margin: auto;
+        margin-top: 25px;
+
+        background-image: url("img/mainpic.png");
+        background-size: contain;
+        background-position: center;
+        background-repeat: no-repeat;
+    } 
+
+    h1{
+        /* background-color: rgba(0, 0, 255, 0.5); */
+        color:rgb(0, 26, 255);
+        position: absolute;
+        top: 20%;
+        left: 20%;
+        text-align: right;
+        font-size: 80px;
+        font-weight: bold;
+        font-family: 'Candara', cursive;
+    }
+
+    p{
+        /* background-color: rgba(5, 0, 235, 0.5); */
+        color:rgb(0, 26, 255);
+        position: absolute;
+        bottom: 20%;
+        left: 17%;
+        text-align: left;
+        font-size: 72px;
+        /* font-weight: bold; */
+        font-family: 'Candara', cursive;
+    }
+
+} 
